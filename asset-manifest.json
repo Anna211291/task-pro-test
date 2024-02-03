@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-pro-test/static/css/main.cd2e038f.css",
+    "main.js": "/task-pro-test/static/js/main.f301d354.js",
+    "index.html": "/task-pro-test/index.html",
+    "main.cd2e038f.css.map": "/task-pro-test/static/css/main.cd2e038f.css.map",
+    "main.f301d354.js.map": "/task-pro-test/static/js/main.f301d354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e038f.css",
+    "static/js/main.f301d354.js"
+  ]
+}
